@@ -261,7 +261,7 @@ window.addEventListener('keydown', (event)=>{ // нажатие кнопки
             player.lastKey='a'
             break
         case 'w':
-            player.velocity.y=-20
+            player.velocity.y=-10
             break
         // spacebar for attack
         case ' ':
@@ -285,7 +285,7 @@ window.addEventListener('keydown', (event)=>{ // нажатие кнопки
             enemy.attack()
             break
         case 'ArrowUp':
-            enemy.velocity.y=-20
+            enemy.velocity.y=-10
             break
         }
     }
