@@ -109,7 +109,7 @@ const enemy = new Fighter({
             frames: 4
         },
         run: {
-            imageSrc: "C:/Users/bakla/игруля/img/3 Dude_Monster/Dude_Monster_Run_6.png",
+            imageSrc: "img/3 Dude_Monster/Dude_Monster_Run_6.png",
             frames: 6
         },
         jump: {
@@ -125,7 +125,7 @@ const enemy = new Fighter({
             frames: 8
         },
         attack1: {
-            imageSrc: "C:/Users/bakla/игруля/img/3 Dude_Monster/Dude_Monster_Attack2_6.png",
+            imageSrc: "img/3 Dude_Monster/Dude_Monster_Attack2_6.png",
             frames: 6
         }
     },
